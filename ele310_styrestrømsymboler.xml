@@ -1,0 +1,107 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;shape=stencil(vVXBcoMgEP0aj+2o1NgeO7Y59dA/6BDdRCYIDBKT/n1BoBOSYsx0khkvvIXd9/axmKCqb7GAJE9xL6BWCXpL8nzAkuAV1XCuI60Fn1O7ZLgDi2Tia73r3a5eSb6FPWmU209YC5IoG927E4sxCXpP0leNmg9VNWdMlyac9UHkKK6TY8JUUL36zGxuoct0oEBa3NE8BKtvt3os7DrJl9fVymfUyubVQpVGYqJRtcL1diP5jjV/MpTGpV9TPAPX38UJoVA9SicIRcqias0lTPBZE0qt9xNtFdjcirOAD3d8gJhlTxHSYQZK2FGGbHFNjlF+hKGej0va/it+RgP9VqCUCDNw3v4icL8IzS9KfwO9/+X09b/K0qme3VBxFr4ngeKH9FTwy50EXzys4GCmVlBcQ8tpA7IPFGBKNswiNTDzvoyw5AqbN8Lt9U+wLmeRpTs+RM4fwvvv2lKi6XG4EdmPeWRPhzfGdnTk7HEaUftPG4Ef);direction=south;noLabel=0;labelPosition=center;strokeWidth=1;spacingRight=0;rotation=90;horizontal=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Innkoblingsfase"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;shape=stencil(vVTBbsMgDP0ajpuSsCjdccq20w77g4kmboNKAQFNu78fBDKFpUkTTZvExe8Zm2dsI1zqhkhAWUK0hMog/IyyrCWKki2zcGaZxoObxJucHMEjqfzYnXTw0kaJA5xpbYI/5Q0oajx7HsbALyh5sqA7uKwE5zYzFVxHzIC3sQnlJkpevqc+tLRZjmBAeTy88hJZn8G6z72Nstd1ubIFudJluXBpkSnRuNyS6rBX4sTr8a1JbicUXCG+acqY/58Z7ZK4nxsRPX0ULUzV9SGZK2sfgVE+iLBZE6JTP/FA28K3pP1W+4L69a7AGJVuJvqxyaMByKOOKYq+SUIVcDHfoas+dK5kfyg4jQSnkeC75Kfgx38SfPOygYsbeslIBY1gNSgdKSCM7rlHKuBuBXSwEoa4MQ6+fVfbdB55C5ujnbh/fRoKPLM7RsPeoX6Pd8AX);direction=south;noLabel=0;labelPosition=center;strokeWidth=1;spacingRight=0;rotation=90;horizontal=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Utkoblingsfase"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"\" placeholders=\"1\" Inport=\"12\" Outport=\"11\" Outport2=\"13\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(zVXbToQwFPyaPrqBVmN8NKjP/sGmsHVpKC0pFfTvPbQgN8EimjXZZNOZMmc6PQcQicqUFgzhgJYFSwwiDwjjimpOYwEwBiZ14HXglpLmzCFcyiOtjpmKBZdnph1fGq0yVvOTSbttKdPcOLYeipFHFNwD2PxIlCgpwQJXshwxAx60KZdm5CJ6Dp10AVVyZsCHxVu7b+3qgG8c8N4B7Rrhp23l8I/K/WmxW8+zkQiQpZxJFNMkO2v1Kk/zpxa5F6XZF8QnzYVwLbFy/II2zTIjOjpXFeuPGwajw4ar0XYS0KEDCTyWWL8dTxcHst3HRGS/DT+JsQmyRcL2wsJ1wcvku4ve2wke3dRtZULwomz2pZOpqCfrNoe76Rhd9VPc1HVgLGAQfEL2avy1MC8YxTyLsEf+aRaJEgo+QYH73+Zvf68M8vnVwbGPzV6xFnVfbgt8AA==);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=-2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Node"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"K1\" Inport=\"31\" Outport=\"32\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(xVZbboMwEDyNP4vA5CE+K9pK/WpvUDmwCVaNjYzz6O1rsN3gBAhJKkWKFO2sPDv7sBcUp3VBKkA4JHUFmULxC8J4RyQlK6ZhrD2FAWehMTkpwSA8+8oEVyRTQhpfraT4hj3NlT1EeQGSKuPdd4niVxQ+a7D5xanm4To8Fbz2PB2/5iaUK09B+hkZ6kpHKUGBNLiVevCsH2sFc2Mj/HZdLDwhVjQtVpxqZCjpOF2R7HsjxZbnvQrXlLFMsKbqoflvo62YPjaeGzBGqxqOXcVea7CXC068ZKJkJJcBxVqrkHAhFTM1I6or0szTmcO5S7GDoW47s5/aMTDKOwzRLRS+iCRY+LUbnbl+Gacct+iI76/G0s2wS2XxEBmzayjakRyYGv3kXZq3ewdywlAPXsi/J2N/YrtSJsHypCFHZDzWpLs2VrgHpv0UBvhRaV88rODQ7IpKv79QCJaDrL1tIIUizTNv73U4sp3cQ6FjGgDh+TuvhNQBrIswurFUDNZ2t+46aEnz3C3vWyX33zqnrj+hruaPrfo/0W17zhZJi5rPlxb4BQ==);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Kontaktor NC hjelpekontakt"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"K1\" placeholders=\"1\" Inport=\"23\" Outport=\"24\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(tVbLboMwEPwaHxuBHVRxrGgr9dT+QeXAJlgxtmWcR/++BkOKEyCEJhIS2lkxO/vwGkSSMqcKEA5oqSA1iLwijPdUM7riFsbWkztwGThT0AIcIuR3KoWhqZHa+Uqj5RYOLDPNR0zkoJlx3kOXiLyh4MWC1UMSyyNseCZF6Xk6fstNmTCeguQrdNTKRinAgHZ4I/XoWT+NtYicjfD7bbHwhFjhtFgkschQ0iRZ0XS70XInsl6Fa8Z5KnlV9cC962grbj8bzw04Z6qEv65irzXYywXHXjJhPJLLgGKrVWq4koqbmhHVilbzdOFo3YXcw1C3W7OfumXgTHQYwjkUvghyfxWjU/swFctbKOpJGGiW3TTX2vzfOZgwS4Pn4HRSD2d2W8p48RydHYcTUgWeeARvmvuxak6oxZwVMbtAT8ECDxboIeNi4FhtaGVTglzyDHTp7WAtDa2WqwNjf0/7Yx1Gp/vLAQhHH0JJbQM0LsrZpqHisG5utH0HLViWtVfmXMn9h65V159QV/PnztxPdN2ei/Vdo+6noQZ+AQ==);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=3;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Kontaktor NO hjelpekontakt"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"S1\" style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(zVbbboMwDP0aHocg6UU8Tmx73h9MAbIRNU0QpGX7+7mErISWQLNJnVSpsU2Oz0mMTYDTpiQVDVBEmormKsBPAUJHUjOScXAjiJTauYq0Kcieao/I37KDUlLoQKNquaMtK1S/g4mS1kzpaDtEwc9B9AjO0w+nuRQCcjMpGisyiAM2YUJZ6dPXWENXkGVPFa21v+f5aVlfvRWutR2gl9tyoQW54mW5cAqeKdE4zUi++6jlQRRXGb4zznPJZQ2m/u+yZRy2ubVRzlnV0POVIutqkKUFJZaYOHFomWAMXGVNZ6ToqnGwrsipni4CJryXRzp128a8Dm0QOBMDhNgHwiaRhBv77Jw1d53GGMOHB/79aWxNDRspm7vQWPlA2CxibENsPUrDhsAeLExaw2JRZbghPISMIHyExCjcrD1QxkRCfAtK120mGgKMsrlWMvtAQZoS4KG9w0yLzMp0xyh2czvtpgWs+8VwJvxJdzN1f9PLODrx6B8d94z4BePBPHox2n6GbzuyTVNKwu2otZ097lyLppbr4O4o+yEK0b1kT27utl18KnRe/XXaOb4B);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Bryter NL"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"S2\" style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(zVbbboMwDP0aHodI0ov6OLHteX8wBchG1DRBIW23v59LyEpouZS26iQkYhsfHzuJTUDiMqcFC3BEy4KlJiAvAcY7qjlNBKgxWHKrnEVWlHTDrEaqj2RrjJLWUBqt1mzPM1N7cJkzzY217pso5DWInkF5eEicKikhNley9CwNO2BTLo0XPn5HFrqAKBtmmLb6mue3J/3UUji3coDfLouFR8RC42KRGDRdSZM4oen6S6utzM4y/ORCpEooDaJ9V9ESAW79uTEheFGy45Zib2uwlwteecmgVU8uHYyBq9JsIBV7anpYF/Rwnk4MzrxRO9a12048D+0QBJcNBDQFwidBbs+i99TejcXs+log4kMsJ9TChyATWLiwV7BoQUxhgXC4mE9AaRMJySUo1Q3tuETQ/oeu3+AHGS1zgIeWCHMgcivXUSLUz+3gzTJY14tmH71JR2i1BLSYUPHoH5V7IPkRLdV9ejIO/gbWviW7jrIKl/7JQ0dNf6xRnb6vcA9M+ykK8aPS7nSu3E7Ga6W1f3SV4hc=);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Bryter NO"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"F1\" Inport=\"41\" Outport=\"42\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(xVbbboMwDP0aHldB0st4nNgm7Wn7gyqFdI0aEhTSy/5+LiErAQqUVquEhGyT42PH2PZwlG9IRj3kkzyjsfbwq4fQnihGVhzUCCwbo5z6RhQkpUYj4mUqtVTLTEkNh5kU5pNcK7mlB5bo8iwTG6qYNtZDFQ+/ef4LKE8PjmIphAHKHUvFDtiECe0Qib4CA52Bl5Rqqoy+ZHx0pJ9SmsyM7KH363yhAb6CYb5wBJpLQeNoReLtt5I7kbQyXDPOY8mlAtG8C28rDse6Y6Ocsyyn58tFztUgJxYUOsEEYUcsFxgDV6loTyimajpYZ+RUTw2DNadyTy/dthXboS0CZ6KCEIyBcEmEk7mbu86aa6dRxxjDA9+ejYWtYRvK/CE0pmMgXBYoqGf0+XoeDRB8FyboDkzQ9HomwWIUSO2HaYAMSmyDCXIrDUpvPuK/gbyEI4F6GU0n+D6M+oCKpnqh78Hs7uuYt7bUAW3ZftoYKX9D71CTbTMIJ4taSzlrun0NmhZdiXtg2E9+vZr+L+zew5oeT9tOBhsE3UieUJU7+wzseaRY88xk8jv2KzvqwKdReGj2ITKpwEFpIpx9l1CcrsvtcF/RpixJ7BY6lnL73LDs2gOqcv7c6fuRLq6nsQoVWrOHF4pf);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Motorvern NL hjelpekontakt"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"F1\" Inport=\"33\" Outport=\"34\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(xVbbboMwDP0aHocglLY8TmyT9rT9QZVCOqKGBIX0sr9fSkhLKHc6VapU+ZgcHzuWY8sL8wRmyAIOzDMUCct7swA4Qo7hlkgYSE+iwIWjTApTpBDKNikTjG8yzoQ8jBlVn+SCsz064ViUZzFNEMdCeU9VPu/dcl4lePl5YcQoVUS54an4JTfEVBhCwm9XUWcySooE4govFZ8N67e0bF/ZFvgYFwsMiOUOi+WFEmlL2gu3MNr/cHagcaPCHSYkYoRxaar/ItqWyGPduSFCcJaj2+UC42qAkQsIjGTcoCOXFsVSK+OoJxXVNR2qM3jppzuHdqfsiNpuW5vN1JqBYFphcKdQmCK8x6vo7Np/U7GYXwvdVbqNluNV1CnW81VMqEWdAoxXoZWPoqj1xXpCOWsqVvbSN1n8KzKuIrY3kahX0Y16pqI+omJ+tYwY+Uz2Dae502vABNSf3k3v6/tyqtl6AAT2qlaNG9Ida9Bg7ircE9N+cWzwrLR7Dwt0viwWmXysUcJIjHhurA5ypYLFRlWAgdOxyrj+de1SgAX8T5oxLgOULkjwT0lF0K5cxI4VNMVxrBe+qZKb3wqtrjmhquavg3ic6OJ67raOAlUrbwH8AQ==);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=0;enumerate=0;treeFolding=0;movableLabel=0;container=0;labelPadding=0;strokeOpacity=100;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Motorvern NO hjelpekontakt"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"T1\" Inport=\"16\" Outport=\"15\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(xVbBboMwDP0ajlQQulUcJ7ZJO21/UKXgttFCgkLasr+fS8hGKFBKJ02qRP0Mz8+x48SLknJPC/BIQMsCUu1Fzx4hR6oY3XCECXr2BlwGxhQ0B4OIdK1ZDmpNDxXjjKqvdSqFpkhTv1lqJT/hxDLdUDCxB8Ua76lNG714wROC51+UIItAMUyK0vG0/MhNmdCOnuQjNNQFRslBgzJ4I7xyrK/GWjwY2yOvt8UiE2KF02JFCSJDSUfJhqafOyUPIutVuGWcp5JLhaZ51tE2HD8bzw04Z0UJvzUmTmmIkwuJnWTCeCSXAcWoVSq4korpmhHVBT3304XDunN5hKFqW7Of2jJwJloM4RwKV0S8eHTXbrTn+mV0OeboiO5fjZXtYZvK4+0ywpUrIx7fgwNlWXWWdBqJq6SzQecp6ZDMU/IHpVnOoeisx9KlmJQIVSn+UbZBzCeq0x+VTytW+kpqeh5xzubkVO3ARxp/y+nOcZUngKIFh+54vUVuPZgGZgceg9emzr1jacJos69ejOWfg+PUsW3zxItVZ1v+IuOxJk3csYX7x7T9YEH+K+2rH2uozjeGAk9h2EuegSqdFnZ3QhyM3FHscYExDeCRhzdRSIUBGhflbNdQcdg2N6xjC81ZltkL3VzJ/XPGqutPqK35/aD/TnRdnovrRI2aK20NfAM=);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=0;spacing=2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Timer NL hjelpekontakt"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"T1\" Inport=\"18\" Outport=\"15\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(xVbRrqIwEP0aHjFQNHd93LC7yT7t/oEZYdTmlpaUqty/35EWlyKgck1uYoJzBs6c6XSmDZK0OkCJAYugKjEzQfIjYOwEmsNWEMzIc7DgMrKmhAItItXG8AL1Bo41Fxz0xyZT0gDRNG9WRqt3PPPcOAouD6i58567tMnPIPpO4OWXpMQiSQxXsvI8HT9xA5fG05P+jS11SVEKNKgt7oTXnvXhrMXK2gH79Vws9kCs+LFYSUrIWNJJuoXsfa/VUeaDCndciEwJpcm0zybaVtBn07mhELys8H+NmVca5uXC1l4y8XoilxHFpFVpvJOK3TUTqku47KcbR+su1AnHqt2aw9Qtg+CywxDPofBFJK9XMblrh1XEbx5Fwqa3/ogOnyT+9ryOXlfM09EjmaPjBVVZzqHorcbSpxhpK58CdEZ/tKNwJdHtWjjGOoSaV6FWBi5TxesHAXqPIdGEOwF7z1WdEcsOHPsT7Rm5zSwYaVc6ee41+mcnwQPTpH31ZhJeZ/W5Z7ebZ714W/UG4hWZjvXQkJtauC9MO4wW7KvSvvuxwfpySJd08OFBiRx15W1hvxPW0cS1IF5drzAWCNjqtyyVpgDOBYLvHZXAnbvUnDpowfO8vUPNlTw8Z1p1wwl1Nf85mteJbspzc4I3qL1FNsA/);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=0;spacing=2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Timer NO hjelpekontakt"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"\" placeholders=\"1\" Inport=\"12\" Outport=\"11\" Outport2=\"13\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(zVbbboMwDP0aHjdB0m7q48Q2aU/bH0wpuCVqSFCS3v5+gQRK2kJbWk1IlZBt5fjYPXEc4FhlpIAAhUQVkOgAvwcIbYikZM6MG5lIZp2T0Jqc5GA9aq805L8KmDkppA0rLcUKtjTV7hzlGUiqbXTbxsIfQfhmnOUPx4ng3OBQwZUXacUNNqFceyTin8hCFyZLDhqk9Tu2O8/aO+t5au0Afd6WC12RKzrKhf4z2WtHMhwbT1eLcTwnyWopxZqnZykuKGOJYOV/HNpvlW7OzLH+4oAxWig4yAh5QkBeMTOvmGjWU0oHYUNVSLhQiZVoD+mClOI9CdThXGygS1q1eR66RmCUtxCiIRA+CRyNgoUPgQewmAyB6GUR3c+iH6LSY4dkzHy9JLZ71XiFojsvYzMIt0d23cpZM1BcKw6OMu+VY+Cmy9fXzFG1Yvy9GDKyBzfo6fDSNQO88zl6yM3RsCufzMKUBJlgKUjlPYpSaFI+dk65Yc9GEE2b7cU6AjT94oWQJoELEUaXDorBwu0zm5Y3p2la70xDKZ+fPy999bQpf6/1WDhPbiWNHsO60tTJElB57apbOf4A);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=-2;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Systemvelger"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"K1\" Inport=\"A1\" Outport=\"A2\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(xVXdbsIgGH0aLre0YDO9XLot2dX2Cth+WiKFhuLP3n60wCaz1DpNTLzhHPud8/0BInlb0QYQTmjbQKEReUEY76hidMkNjA1TWXCe2KOgNVikkELTQktliVYruYE9K7X7gokKFNOW3YdRGk4LqCQvQbWWSTuCvKLk2dDdj+RGQBhTTIo2YI54I0qZ0IGv/DN1Ika+Bg3K4k76EJy+3Okxs2eE3y7TwhO00mlaJDdILGmSL2mxWSu5FeWgQ9X176ddsySo+x9DJMzes4OGIrIkX0kFI35WjHM7EyNlbWg3LSeEp2u5g1jLZhHTYQTOBETznhYiNJFd72J+SYi+B5EymfU9V+BrOzChi/6vwDlrWvidwTQYwTSYwKeF3wJXBbIYX8GLxmqsZHdK+CG5V8JnP9Zw6G6OyJ2MEyU17S4kCy7G7lG/YEbTAghn76KRygi4bClnaxeKw8o9D7sjtGZl6R+f/1oe3jTvbjihY88fW3070317Tm7LHrXPbw98Aw==);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Kontaktor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"H1\" style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(zVXBcoMgEP0ajs2gJNYcO7Y99tIvIIZUJggM0KT+fYloIolQG2c6nfGyb+W9B7sLABW6wpKAFGItSWkAegZpesCK4g2zcGozlQNz6EKOa+IQhmvpMG2U2JMj3ZruZ8oroqhx2eOQAL0A+GTB04eKUnBuZang2ssM8pYbU2485TdHLK1GTQxRDu0MfnXRYuXixsuC9PU3Su93KCXjSqiwSGjDqNjgcv+hxCffjvojjFGpyaUeS+id7tL31Fts/HDUU0AZFTuhSMTSjjLmKh85V4lPPXGT6NO1OJCL6xVa5FnuO88WSZbFatdTMcoHVMN1zZl9DQPFibkaobrX1dDCTFd9wfv2jvb3uJsriviITHKRzXeRT6IomdCxtrN4oPPslfdTz85t6gmDERzrxJvqxBtqtL66aR7PQFxl0qTGjuy/bPgB/tGGg4vbZTcXY4u6p7QFvgE=);strokeWidth=1;labelPosition=left;spacingLeft=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Lampe"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"T1\" Inport=\"A1\" Outport=\"A2\" B1=\"B1\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(5VbbboMwDP0aHocgKSt93Ngm7Wn7hRTSEjUkKKSX/f0CCVNDIWW0aidN6ouPU59j4zj2YFLlqMQeCFBV4lR68MUDYIcEQUuqYKA8uQbjQJsMFVgjkhRYaLCSgm/wnmTSnCYsx4JI7d3bEUqKUpxzmmFRaU9YO+CrFzwpd/2DScoZU4IIZ5XlOfIrUkSYtDQln6EhUfQFlkpggxvqg2V9GcuPtO2Bt99xgRFc4Q25Aj8EUYcvng8wwkQhQ2WGyRKlm7XgW5b16hR1t/w0xyywvnRHFrTr3Xp7BQ3QwmTFBXboWRFKdRc6iluiuj9PHK274Ds81CSzAdF2BEoYHsx7XAhbRHS5ivhyFZ1EImcP96sIp4Rwq5hQi2hKCKeKxz+h4gq1cCfS3M2B66MekXMX79KbOeJ2t0cxpaSs6nO5NYD3lmVqMF/49ryEC/eA/tW4cZXsTgk/BP8s4e4HjmY3yvfsnyU+1C/owDYEAsElqh9mk0fg2GDaaaA4NeCB6J2VXCgCky2iZG1CUbwyi9nuCC1IlrUr31TJ/S9Oq64/oWPNH1t5N9FzvzMQ43is7OfwOoqbhjrZcxpUr+kN8A0=);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Timer"
+  }
+]</mxlibrary>

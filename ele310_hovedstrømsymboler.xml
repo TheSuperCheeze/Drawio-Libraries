@@ -1,0 +1,30 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=stencil(5VjLjoIwFP0alk5oC4jLCTOuXMwfTCpWaayFFHz9/RQKE+4oiOAjExM3vZfec05vTwtaJEgjmjAL2zRNWJhZ5MPCeEcVp3Ohw1hnIhP0bTOUdMNMZLlN2Xe6TRJxNKk0U/Ga7fkiK+dwGTHFM5Pd1+uQT8t+18H8R4IwllKj81imIFPL69qUywwQCL6QKZ1olA3LmDLxkukBjI7l6M01YwtPr8PCHbDQjbBID13Id/vCOT2kDYBze6jzEeoL5/VQ1wxHAh1p2rAkmNNwvVLxVi7OklS5yX49hWxgDQI5OXANqofPEmqAJcEyVqyFz5ILYWzbsrIJzQ19kqjSm3jHmhrX3rSqguCyVsG/pkShvoGgPt0uSRuqvcP6VY8yIXiSslr3QfMR6P14Up0d5SqQSfthclVD25bsjoJdINgFgkf2X8HjBwm+OPn2HoFKK58P8Eh7iVfxCHJezCMIP0jwgGuLXDi+h2+/e99h3vA7rL3Eq/jTezV/ev/An5490J8ZO+TYiaAhi2KxYCoFu4EKvpImEjKZv38XYRVnNH+BBo7TYGY8LSfvGmZXFylc7xFu13IfqrgPVUyeQZX0oer4T6A667YB4F5+Sv9n3foPmT6l/bNu7YdMm7pfHEgnX5dF1PynVAR+AA==);direction=north;noLabel=0;labelPosition=right;strokeWidth=1;spacingRight=0;spacingBottom=0;rotation=90;horizontal=0;spacingTop=-44;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Forsyningsfaser"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"K1\" Inport1=\"1\" Inport2=\"3\" Inport3=\"5\" Outport1=\"2\" Outport2=\"4\" Outport3=\"6\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(5VnbjpswEP0aHlthOxDyWKWttE/bP6gccDdoHRsZJ7v79zXYtDEUhwxZbZpIkYLH4cw5M+NrIrKut7RiEY5pXbFcR+RrhPGBqpJuuDFj07O1RhzHti3ojllTLoWmuZbqZ72vKv5m+2ut5DN7KQvt3izFlqlS294Xa8taMPItir8YY/MhawMnDIdSitrrOeo32LQU2mOx/oEsdGW87Jhmytod3Vev9eZanxPbjvD383zhCb7QhXwRgC4C9LUA6IL6SgC6ENBXCtA14ousjWWsSMl6Q/PnJyX3ovgnw18l53ZoBGQ0P8oll8o07XdLacMNdjgAjPOyqtnf8Uq88UY8wUnW1aTTvMpOFWmQfhuZEf3mVanY3MBUtJlNBh1d904e2FjtpHFIWYfAS3GEYIpgmQBQfB7pfCJo2cvUMjgQ3o1HBoEIZQXFABbDtEyECcYDRGWQGITmZwbEJANhhHKDASyGqZmGEowHhMggMWR+XiA8MgiEz6I/ZDIADQLC8HkkF+DRr/QwRrugjMz5Zs96arWYu5xMWJK6n85bd5MT6+4ZhMIhuxbB6AYEI08w8gR/ivsZXt2Z4NW9CUY3Lni5urOSHgi+9ZIeCP4PS3rk5CykYFOUqOby60+wFrEXLRx74epvqaYdhmbHqqD11nRqpoQxdE/dohufOL83b7PCPLuH4zK4yKF70YvKpKD4e8Q+RDiwM/eImr02Ga84zdlW8oKp2gsK5eWTC2/ORHNz1JqV1LS5/XEzg2NovFlDhJMHUUmlTUpcRg4jSN16gnqza1jzO9PGUNqLj+WNoLyzj+L9uNdn1Ul6HWXiaE+uk/RKysTxnlwn6bQyaSehwQVna7X/rLSG3w==);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=7;flipH=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Kontaktor"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"F4\" Inport1=\"1\" Inport2=\"3\" Inport3=\"5\" Outport1=\"2\" Outport2=\"4\" Outport3=\"6\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=right;html=1;verticalAlign=middle;shape=stencil(5VjBcqQgEP0aj7slME5mjltmtyqn7B+kiLLRCgMWMpPk7xcFZ0SjIro7qaTKg3bL69fNUxoCFJcZLkgAQ1wWJJEBug0gPGGR40eqzFB5Mm0E21A/M3wg2nTgkouHQnCphuacPZTHoqBv+rVSCv5MXvJUGoCcZUTkUntftG1XY6KfQfhDGasLxQlnTOOVlqflV9g4Z9IiE/8GGrpQUQ5EEqHthvWr9fRmnr5H+jmAv+bFgg6xwEqxkEde0DfYxiMx72CRR2Y3vsG2HpkNBUOxsgwJFcWPOHl+EvzI0v6oQd8fLsg7jrM7p1R/UyPJF7j62nqOxn3gJzJU2V04VtcGgeashYAuFZqFYvNAaxCxIPajGnmfRbScRbScRTeRzcTH5UbEFcXmstmfhy0oyi5cLBAbAUAPFn2lOsKMTg9AHpPTxfDhEa1Qki6GWy4T9VhFr+4wU4L1KkxHsV4TZENsVlGsG8roBPkRsSCi5f9WHxbRchbdRFbRqjPKlFR9itJR6jhE3X0MNAhqHzDVWiztPRz6l+ZVQmlelNV7zd4jaG8agNWyfTs31qYKN/vxTnsGofGSfZSEAfhqGaNPnvBFwl9E072EP72mexn/N02nuMyUU+2AmTI0d3oxUwY4voZUo0mq7s1NOzXPlUFUB0+XolXmVtmaRc3UrfGaqk0dPSxa8iR5rYgVFCck4zQlorTyxTR/MpVLCKuOFGqz4BJXpwJm82UIq2jaEMDojhVcSBQ07E8DSM3/D0Szkv7HvKEv7+11eQNf3iC8FvH7o5yllO3uYwjF8HZWSof31YRieDsrpcN7UCj1j6h3wFdb9QF8bfgL);direction=south;noLabel=0;labelPosition=left;strokeWidth=1;spacingLeft=0;spacingRight=-2;flipH=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Motorvern"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;object label=\"\" placeholders=\"1\" fase1=\"U\" fase2=\"V\" fase3=\"W\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=stencil(5Vldk5owFP01POIQgoqPHdq+dab/oJPFqOnGhAlU3X/fQIJrkM+gbWb3Se6NnHtOcj3i1YNJfkAZ9sIA5RlOCw9+9cLwhARBL1SmQ7lyUEkQBipm6IhVCu5+HXnBhcrnheCv+Ey2hb6DsAMWpFCrZ42yqlDgNy/44pWIgQeTlDMmixPOcmPlZl2CI8IKo3zyEyjsTJY54gILldc834zooqPFUsVe+H1aLWhRK7QttrQotu4oBhOZ6dpimLyg9HUv+B+2baWIKSVZjt/7IAqMA41MGiuTYx22cuqoDJMdF7iHkmq0nm2lhOHfnDAZVS8VFYXXexwZKlv3bqFePvITflcatZ5GO/QtsU6EeAxCL4f1Ao7BQCKVFxSJPfbltb+jaG+IEDW8Dt+MMD9jnN3cBIwGuPaDjy4k9wUvUNl1bQ0M1rMVg1Gb5orgBxzxOAhXBMP5gsdBuCI4ihfzmzoaJbnXSwCw8KNVbGBsBr68ZL7DMEdYtBseHs/28AaCRb83EFzw8JrSkzy8odgBD58g+AFH7ICHTxBs4+GxDYQrgu08PG6CzPaSrmfnD+S/19+U9gbchLDo1iaECxZ85fQkD25qdsCEp0h+xDE7YMNTJNv4cFOyA0Y8RbKdEzdF21jx3cfD5nl6ExoY//d5esCXd4TSAYz6rXcTIX3AZyPSov3rwE1vynrTP4GbQKh/y1wRDMBnUwz/leDBmwt8KSerGUUpPnC6xSI3FCBK9tp5UszKOasytDZPksVU7IXLHcqxhNAqTx0w9f4Ac3uWAz7wTNKhLekh83omaWhLGsBxrK3I/RhFqZ6pNB7xW+fhd2PvKqv+oKkSfwE=);strokeWidth=1;labelPosition=left;spacingLeft=7;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Trefasemotor"
+  }
+]</mxlibrary>
